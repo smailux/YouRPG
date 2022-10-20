@@ -1,6 +1,6 @@
-Nouveau jeu de Youmile
+Nouveau jeu de Youmile Studio
 Crédits :
-Code : Youmile
+Code : Youmile Studio
 Beauté : Youmile
-Plus belle ville du monde : Meknès et Marrackech (libérez ma famille svp)
+Plus belle ville du monde : Marraknès
 à ouvrir sur PyCharm
