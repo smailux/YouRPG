@@ -1,5 +1,5 @@
 Nouveau jeu de Youmile Studio
-Crédits :
+Crédits :Au magnifique Youmile le bg
 Code : Youmile Studio
 Beauté : Youmile
 Plus belle ville du monde : Marraknès
