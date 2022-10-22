@@ -21,12 +21,15 @@ class Weapon:
         elif type == "light":
             self.has_light = True
 
+    def get_sup(self):
+        return self
 
     def get_name(self):
         return self.name
 
     def get_type(self):
         return self.type
+
 
     def get_attacks(self, num):
         self.att1 = Attacks("Charge", 5, "melee")
