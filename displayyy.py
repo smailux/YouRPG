@@ -26,3 +26,4 @@ while run:
 
     screen.blit(J1_stats, (20, 10))
     screen.blit(J2_stats, (20, 50))
+#Not functionnal yet
