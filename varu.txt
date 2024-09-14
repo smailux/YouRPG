@@ -1,1 +1,2 @@
 {"Ismux": {"argent": 156, "items": ["ismux_staff", "La dague des Bibost"]}, "Youssef": {"argent": 0, "items": ["youssefux_blade"]}}
+test
