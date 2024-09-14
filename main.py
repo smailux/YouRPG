@@ -24,7 +24,7 @@ def wait():
         print("...")
         time.sleep(1)
 
-
+#Classe joueur
 class Player:
     def __init__(self, pseudo, health, attack, pm, speed):
 
