@@ -56,7 +56,7 @@ class Weapon:
 
     def get_cost(self):
         return self.cost
-
+#classe des attaques
 class Attacks(Weapon):
     def __init__(self, name, damage, type, consu=None, counter=None):
         super().__init__(name, damage, type)
