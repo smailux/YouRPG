@@ -13,9 +13,8 @@ baka_bat = Weapon("Le bat des baka", 20, "heavy", 10)
 bae_hammer = Weapon("Bae Hammer", 26, "heavy", 15)
 hand_of_bae = Weapon("La main", 5, "light", 8)
 bibost_dagger = Weapon("La dague des Bibost", 11, "light", 13)
-kaws_superkodeurs_sharp_keyboard = Weapon("Le Clavier Tranchant De Kaw Et Des SuperKodeurs", 20, "magic", 20)
-armes = [youssefux_blade, ismux_staff, baka_bat, bae_hammer, hand_of_bae, bibost_dagger,
-         kaws_superkodeurs_sharp_keyboard]
+
+armes = [youssefux_blade, ismux_staff, baka_bat, bae_hammer, hand_of_bae, bibost_dagger]
 default_characters = []
 
 
