@@ -1,6 +1,3 @@
-Nouveau jeu de Youmile Studio
-Crédits :Au magnifique Youmile (Youssef et Ismail)
-Code : Youmile Studio
-Beauté : Youmile
-Plus belle ville du monde : Marraknès
-à ouvrir sur PyCharm
+Nouveau jeu de Ismux Studio
+
+tout mettre dans un meme dossier et lancer main.py
