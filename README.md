@@ -1,4 +1,5 @@
 #YouRPG
+
 This is a small RPG-Style game written in Python. It was created as a practice project to experiment with basic game mechanics and text-based interactions.
 
 #Features
@@ -7,6 +8,7 @@ This is a small RPG-Style game written in Python. It was created as a practice p
 - Different character classes
   
 #How to run
+
 Just run 'main.py' with python3
 
 Enjoy !
